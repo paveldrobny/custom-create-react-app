@@ -2,6 +2,7 @@
 * React Router - https://reactrouter.com/web/guides/quick-start
 * Deployment for GitHub Pages - https://create-react-app.dev/docs/deployment/#github-pages
 * Font Awesome - https://fontawesome.com/
+* Google Fonts - https://fonts.google.com/
 * ...more will be added later (Firebase, etc.)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
